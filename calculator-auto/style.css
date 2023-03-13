@@ -1,0 +1,10 @@
+.calc-form {
+    width: 420px;
+    background: #f6f6f6;
+    padding: 14px;
+}
+
+.calc-form label {
+    display: block;
+    font-family: system-ui;
+}
